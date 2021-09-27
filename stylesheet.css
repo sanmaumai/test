@@ -1,16 +1,8 @@
-h2 {
- color: red;
- font-size: 40px;
- font-family: serif;
- 
- width: 500px;
- height: 80px;
- background-color: #dddddd;
+li {
+  color: #444;
 }
 
-p {
- color: #0000ff;
- font-size: 50px;
- font-family: sans-serif;
+/* selectedの文字の色を#ff0000にしてください */
+.selected{
+  color: #ff0000;
 }
-
