@@ -2,6 +2,10 @@ h1{
  color: red;
  font-size: 40px;
  font-family: serif;
+ 
+ width: 500px;
+ height: 80px;
+ background-color: #dddddd;
 }
 
 p{
